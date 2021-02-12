@@ -1,0 +1,18 @@
+{
+	"name": "monks-color-palette",
+	"title": "Monks Color Palette",
+	"description": "Background color palette",
+	"version": "1.0.0",
+	"author": "IronMonk, ironmonk88#4075",
+	"socket": true,
+	"esmodules": [
+		"monks-color-palette.js"
+	],
+	"styles": [ "css/monks-color-palette.css" ],
+	"packs": [],
+	"url": "https://github.com/ironmonk88/monks-color-palette",
+	"download": "https://github.com/ironmonk88/monks-color-palette/archive/1.0.0.zip",
+	"manifest": "https://raw.githubusercontent.com/ironmonk88/monks-color-palette/master/module.json",
+	"minimumCoreVersion": "0.7.0",
+	"compatibleCoreVersion": "0.7.9"
+}

@@ -1,0 +1,7 @@
+.background-palette {
+    height: 20px;
+    border-radius: 4px;
+    display: inline-block;
+    border: 1px solid #7a7971;
+    cursor: pointer;
+}
